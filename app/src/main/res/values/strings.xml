@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ServerToLocal</string>
+    <string name="user_name">"User name - %s"</string>
+    <string name="email">"Email - %s"</string>
+    <string name="mobile">"Mobile - %s"</string>
+    <string name="gender">"Gender - %s"</string>
+</resources>
